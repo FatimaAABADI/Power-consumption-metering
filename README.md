@@ -8,3 +8,8 @@ The datasets that was used for the development of the machine learning model are
 The data of 4 smart meters corresponding to 4 different profils is used in this study.
 
 The energy consumption of every 15 minutes, for 11 months (27-07-2017/04-07-2018) has been used.
+
+# SVR Model
+Support Vector Machines (SVM) are popularly and widely used for classification problems in machine learning.The use of SVMs in regression are known as Support Vector Regression (SVR).
+
+SVR gives us the flexibility to define how much error is acceptable in our model and will find an appropriate line (or hyperplane in higher dimensions) to fit the data.
