@@ -18,9 +18,13 @@ SVR gives us the flexibility to define how much error is acceptable in our model
 
 The objective function of SVR is to minimize the coefficients — more specifically, the l2-norm of the coefficient vector — not the squared error. 
 
-Minimize:  ![This is an image](https://miro.medium.com/max/456/1*6M8yyY7yC7xJX6nFN2SdCQ.png)
+Minimize: 
 
-Constraints:    ![This is an image](https://miro.medium.com/max/506/1*gpN_ZxDuLgusn-O0fck13A.png)
+![This is an image](https://miro.medium.com/max/456/1*6M8yyY7yC7xJX6nFN2SdCQ.png)
+
+Constraints:  
+
+![This is an image](https://miro.medium.com/max/506/1*gpN_ZxDuLgusn-O0fck13A.png)
 
 
 Illustrative Example:
