@@ -1,13 +1,12 @@
-# Energy-consumption-metering and forecasting
+# Power-consumption-metering and forecasting
 
 
-Development of a machine learning based model to predict energy consumption in an university campus environment in real time. Time series forecasting is one of the most important topics in data science. We needs to predict the future consumption in order to make better decisions and allocate resources more effectively.
+Development of a machine learning based model to predict power consumption in an university campus environment in real time. Time series forecasting is one of the most important topics in data science. We needs to predict the future consumption in order to make better decisions and allocate resources more effectively.
 
 ## Data Acquisition 
 The datasets that was used for the development of the machine learning model are available in https://github.com/FatimaAABADI/Energy-consumption-metering-and-forecasting/tree/main/Data
 
 ## Data description
-
 
 The energy consumption of every 15 minutes, for 11 months has been used.
 
