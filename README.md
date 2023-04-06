@@ -9,13 +9,29 @@ We implanted a simple yet reliable network consisting in 18 Schneider PM1200 Sma
 
 ![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/bus%20(1).PNG)
 
+We have installed:
+1. 01 Vijeo citect 5000 points Supervision Station. It is a monitoring and control component of PlantStruxure™PES (Process Expert System). It provides configuration tools and features to consolidate and streamline control from an array of inputs (counted as "points").
+
+2. 01 Switch for the Local Area Ethernet TCP/IP Network.
+
+3. 01 Modicon M340 Programmable logic controller acting as a Master to collect data every 15 min. from the Smart Meters. This PLC serves also as a gateway to translate the Modbus-RTU protocol (IoT dedicated) into Ethernet TCP/IP. Moreover, in the case of future electrical equipment in- stallation (e.g., solar panels, other loads) it can act as a Smart Controller (e.g., for load shifting, solar/utility choice).
+
+4. 12 on/off input and 8 on/off output modules. The Remote inputs/outputs are used for voltage supervision and horn control in case of a fault.
+
+5. 01 EGX150, Ethernet Gateway to translate the Modbus RTU signal into Ethernet TCP/IP.
+
+6. 01 Smart Meter for monitoring the electrical quantities of the Main low voltage Distribution Board (MDB) dedicated to student rooms.
+
+7. 01 EGX150 reserve unit for future use.
+
+8. 11 Smart Meters for monitoring the electrical quantities of the building C MDB.
+
+9. 06 Smart Meters for monitoring the electrical quantities of the transformation station MDB.
 
 
+Figure below presents specifically each Smart Meter’s monitoring area:
 
-
-
-
-
+![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/bus%20(1).PNG)
 
 
 ## Data description
