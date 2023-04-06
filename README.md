@@ -52,4 +52,4 @@ dormitory 1).
 
 The data is extracted from the infrastructure presented in the previous subsection. We collected 11 months of power consumption data from 16 Smart meters, with a 15 minutes granularity
 
-![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/dfs.PNG)
+![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/dfs.png)
