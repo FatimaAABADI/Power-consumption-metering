@@ -7,7 +7,7 @@ INPT ("Institut National des Postes et Télécommunications") stands for the Nat
 
 We implanted a simple yet reliable network consisting in 18 Schneider PM1200 Smart Meters under the authority of a Programmable Logic Controller (PLC), which is in turn connected to the Supervision Station through a gateway (for protocol translation). The Supervision Station in our control room displays in real time power consumption trends, every 15 minutes
 
-![This is an image](https://miro.medium.com/max/456/1*6M8yyY7yC7xJX6nFN2SdCQ.png)
+![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/bus%20(1).PNG)
 
 
 
