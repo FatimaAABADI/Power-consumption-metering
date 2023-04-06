@@ -1,10 +1,22 @@
-# Power-consumption-metering and forecasting
-
-
-Development of a machine learning based model to predict power consumption in an university campus environment in real time. Time series forecasting is one of the most important topics in data science. We needs to predict the future consumption in order to make better decisions and allocate resources more effectively.
+# Power-consumption-metering
 
 ## Data Acquisition 
-The datasets that was used for the development of the machine learning model are available in https://github.com/FatimaAABADI/Energy-consumption-metering-and-forecasting/tree/main/Data
+The datasets that are available in https://github.com/FatimaAABADI/Energy-consumption-metering-and-forecasting/tree/main/Data are extracted from a platform implemented in an university campus(INPT).
+
+INPT ("Institut National des Postes et Télécommunications") stands for the National Institute of Posts and Telecommunications1. It is a Moroccan public Engineering School offering multiple curricula in information and communication technologies, and located in Rabat, the administrative capital of Morocco (North Africa). 
+
+We implanted a simple yet reliable network consisting in 18 Schneider PM1200 Smart Meters under the authority of a Programmable Logic Controller (PLC), which is in turn connected to the Supervision Station through a gateway (for protocol translation). The Supervision Station in our control room displays in real time power consumption trends, every 15 minutes
+
+![This is an image](https://miro.medium.com/max/456/1*6M8yyY7yC7xJX6nFN2SdCQ.png)
+
+
+
+
+
+
+
+
+
 
 ## Data description
 
