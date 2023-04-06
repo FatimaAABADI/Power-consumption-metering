@@ -36,10 +36,15 @@ Figure below presents specifically each Smart Meter’s monitoring area:
 Smart Meters PM 13, 14, 15,16 measure the electrical consumption in the different floors of the Dormitory 3. The Smart Meters PM 3,4 monitor Building B. PM 1 monitor building C. The Smart Meters PM 7, 8,9 are in charge of Dormitories 1 and 2. The Smart Meters PM 5,10,17 are in charge of Building D and E. PM 6,7, 11 are in charge of solar and lighting.
 
 • Building A: Administration and services.
+
 • Building B: Offices and classrooms.
+
 • Building C: Library and auditorium.
+
 • Building D: Labs and offices.
+
 • Building E: Lecture Halls.
+
 • Dormitories. One of them is home to the restaurant on the ground floor (
 dormitory 1).
 
