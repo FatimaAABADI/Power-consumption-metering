@@ -31,32 +31,20 @@ We have installed:
 
 Figure below presents specifically each Smart Meter’s monitoring area:
 
-![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/bus%20(1).PNG)
+![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/18%20compteurs.PNG)
 
+Smart Meters PM 13, 14, 15,16 measure the electrical consumption in the different floors of the Dormitory 3. The Smart Meters PM 3,4 monitor Building B. PM 1 monitor building C. The Smart Meters PM 7, 8,9 are in charge of Dormitories 1 and 2. The Smart Meters PM 5,10,17 are in charge of Building D and E. PM 6,7, 11 are in charge of solar and lighting.
+
+• Building A: Administration and services.
+• Building B: Offices and classrooms.
+• Building C: Library and auditorium.
+• Building D: Labs and offices.
+• Building E: Lecture Halls.
+• Dormitories. One of them is home to the restaurant on the ground floor (
+dormitory 1).
 
 ## Data description
 
-The energy consumption of every 15 minutes, for 11 months has been used.
+The data is extracted from the infrastructure presented in the previous subsection. We collected 11 months of power consumption data from 16 Smart meters, with a 15 minutes granularity
 
-## SVR Model
-Support Vector Machines (SVM) are popularly and widely used for classification problems in machine learning.The use of SVMs in regression are known as Support Vector Regression (SVR).
-
-SVR gives us the flexibility to define how much error is acceptable in our model and will find an appropriate line (or hyperplane in higher dimensions) to fit the data.
-
-The objective function of SVR is to minimize the coefficients — more specifically, the l2-norm of the coefficient vector — not the squared error. 
-
-Minimize: 
-
-![This is an image](https://miro.medium.com/max/456/1*6M8yyY7yC7xJX6nFN2SdCQ.png)
-
-Constraints:  
-
-![This is an image](https://miro.medium.com/max/506/1*gpN_ZxDuLgusn-O0fck13A.png)
-
-
-Illustrative Example:
-
-![This is an image](https://miro.medium.com/max/1400/1*nrXHNqC_hqpyux7GUbtqAQ.png)
-
-
-## Results
+![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/18%20compteurs.PNG)
