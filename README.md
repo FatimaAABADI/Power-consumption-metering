@@ -50,6 +50,11 @@ dormitory 1).
 
 ## Data description
 
-The data is extracted from the infrastructure presented in the previous subsection. We collected 11 months of power consumption data from 16 Smart meters, with a 15 minutes granularity
+The data is extracted from the infrastructure presented in the previous subsection. We collected 11 months of power consumption data from 16 Smart meters, with a 15 minutes granularity.
+
+The outputs of this platform are: Date, Time, Current, Active Power ("useful" power in kW), Reactive Power ("useless" power bouncing from
+source to load in Voltage Ampere Reactive), Apparent Power (combination of active and reactive power in Volt Amperes), Voltage and Power factor.
+
+Figure below graphically represents each Smart Meter’s (PMX with X from 01 to 16) power consumption dataset. The X axis designates the 15 minute sample number (in chronological order) and the Y axis the associated power consumption (active power) at that moment
 
 ![This is an image](https://github.com/FatimaAABADI/Power-consumption-metering/blob/main/img/dfs.png)
