@@ -1,5 +1,7 @@
 # Power-consumption-metering
 
+[![DOI](https://zenodo.org/badge/553015219.svg)](https://zenodo.org/badge/latestdoi/553015219)
+
 ## Data Acquisition 
 The datasets that are available in https://github.com/FatimaAABADI/Energy-consumption-metering-and-forecasting/tree/main/Data are extracted from a platform implemented in an university campus(INPT).
 
